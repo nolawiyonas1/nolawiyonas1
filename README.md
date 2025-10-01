@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hey, I'm Nolawi
 
-<!--
-**nolawiyonas1/nolawiyonas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **third-year Computer Science student** at the **University of Toronto** (Software Engineering stream).  
+I’m passionate about **Full Stack Development** and **AI**, and I love building scalable, efficient, and user-friendly applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+### 👨‍💻 Languages  
+- Python  
+- JavaScript / TypeScript  
+- Java  
+- C / C++  
+- Go  
+- HTML / CSS  
+- SQL  
+
+### 📚 Libraries & Frameworks  
+- React, Next.js, React Native, Vue, Angular  
+- Node.js, Express.js, FastAPI, Flask  
+- Tailwind CSS  
+
+### 🗄️ Databases  
+- Firebase  
+- MongoDB  
+- Supabase  
+
+### 🛠️ Tools & Platforms  
+- Git, CI/CD, Jenkins, Docker  
+- Bash, Unix  
+- AWS, GCP, Terraform  
+- Expo, Elasticsearch, Redis  
+
+### 🧪 Testing  
+- Jest, Jasmine  
+- JUnit, Mockito  
+- Postman  
+
+---
+
+## 🌱 Currently  
+- Diving deeper into **AI-driven applications**  
+- Exploring **scalable full-stack architectures**  
+- Working on projects that bring **interactivity + intelligence** together  
+
+---
+
+## 📫 Connect with Me  
+[LinkedIn](https://www.linkedin.com/) • [Portfolio](#) • [Email](mailto:youremail@example.com)
