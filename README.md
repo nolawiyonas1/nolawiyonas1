@@ -33,15 +33,3 @@ Passionate about **Full Stack Development** and **AI**, I love building scalable
   <summary>🧪 Testing</summary>
   <p>Jest • Jasmine • JUnit • Mockito • Postman</p>
 </details>
-
----
-
-## 🌱 Currently
-- Exploring **AI-driven applications**  
-- Learning **scalable full-stack architectures**  
-- Building projects that merge **interactivity + intelligence**
-
----
-
-## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/) • [Portfolio](#) • [Email](mailto:youremail@example.com)
