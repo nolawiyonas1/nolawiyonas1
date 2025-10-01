@@ -1,50 +1,47 @@
 # 👋 Hey, I'm Nolawi
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&vCenter=true&lines=Computer+Science+Student;Full+Stack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+
 I'm a **third-year Computer Science student** at the **University of Toronto** (Software Engineering stream).  
-I’m passionate about **Full Stack Development** and **AI**, and I love building scalable, efficient, and user-friendly applications.
+Passionate about **Full Stack Development** and **AI**, I love building scalable, efficient, and user-friendly applications.
 
 ---
 
 ## 💻 Tech Stack
 
-### 👨‍💻 Languages  
-- Python  
-- JavaScript / TypeScript  
-- Java  
-- C / C++  
-- Go  
-- HTML / CSS  
-- SQL  
+<details>
+  <summary>👨‍💻 Languages</summary>
+  <p>Python • JavaScript / TypeScript • Java • C / C++ • Go • HTML / CSS • SQL</p>
+</details>
 
-### 📚 Libraries & Frameworks  
-- React, Next.js, React Native, Vue, Angular  
-- Node.js, Express.js, FastAPI, Flask  
-- Tailwind CSS  
+<details>
+  <summary>📚 Libraries & Frameworks</summary>
+  <p>React • Next.js • React Native • Vue • Angular • Node.js • Express.js • FastAPI • Flask • Tailwind CSS</p>
+</details>
 
-### 🗄️ Databases  
-- Firebase  
-- MongoDB  
-- Supabase  
+<details>
+  <summary>🗄️ Databases</summary>
+  <p>Firebase • MongoDB • Supabase</p>
+</details>
 
-### 🛠️ Tools & Platforms  
-- Git, CI/CD, Jenkins, Docker  
-- Bash, Unix  
-- AWS, GCP, Terraform  
-- Expo, Elasticsearch, Redis  
+<details>
+  <summary>🛠️ Tools & Platforms</summary>
+  <p>Git • CI/CD • Jenkins • Docker • Bash • Unix • AWS • GCP • Terraform • Expo • Elasticsearch • Redis</p>
+</details>
 
-### 🧪 Testing  
-- Jest, Jasmine  
-- JUnit, Mockito  
-- Postman  
+<details>
+  <summary>🧪 Testing</summary>
+  <p>Jest • Jasmine • JUnit • Mockito • Postman</p>
+</details>
 
 ---
 
-## 🌱 Currently  
-- Diving deeper into **AI-driven applications**  
-- Exploring **scalable full-stack architectures**  
-- Working on projects that bring **interactivity + intelligence** together  
+## 🌱 Currently
+- Exploring **AI-driven applications**  
+- Learning **scalable full-stack architectures**  
+- Building projects that merge **interactivity + intelligence**
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 [LinkedIn](https://www.linkedin.com/) • [Portfolio](#) • [Email](mailto:youremail@example.com)
