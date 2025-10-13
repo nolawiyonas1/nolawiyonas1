@@ -1,9 +1,9 @@
 # 👋 Hey, I'm Nolawi
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&vCenter=true&lines=Computer+Science+Student;Full+Stack+Developer;AI+Researcher)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00BFFF&vCenter=true&lines=Full+Stack+Developer;Machine+Learning+Researcher;Computer+Science+Student)](https://git.io/typing-svg)
 
-I'm a a third year student at the University of Toronto studying Computer Science within the Software Engineering stream.  
-Passionate about **Full Stack Development** and **AI**.
+I'm a third-year Computer Science student at the University of Toronto within the Software Engineering stream. I’m passionate about **full-stack development**, **AI**, and building products that make a real impact on people’s lives.
+
 
 ---
 
@@ -18,7 +18,6 @@ Passionate about **Full Stack Development** and **AI**.
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Technologies
